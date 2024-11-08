@@ -12,9 +12,10 @@ namespace Info_Esercizi_08_11_24
         static void Main(string[] args)
         {
             //Es 1 Thread
-            new Es1Thread().Run();
+            //new Es1Thread().Run();
 
-
+            //Es 1 Task
+            new Es1Task().Run();
 
 
             Console.ReadKey();
