@@ -38,9 +38,7 @@ namespace Info_Esercizi_08_11_24
                     Thread.Sleep(100);
                     Counter++;
                 }
-            }
-            
-            
+            }            
         }
 
         private void NumeriDispari()
@@ -57,8 +55,6 @@ namespace Info_Esercizi_08_11_24
                     Counter++;
                 }
             }
-
         }
     }
 }
-//Stack di righe

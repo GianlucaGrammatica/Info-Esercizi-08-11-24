@@ -19,7 +19,6 @@ namespace Info_Esercizi_08_11_24
 
             t1.Start();
             t2.Start();
-
         }
 
         private void NumeriPari()
@@ -37,8 +36,6 @@ namespace Info_Esercizi_08_11_24
                     Task.Delay(1000);
                 }
             }
-
-
         }
 
         private void NumeriDispari()
@@ -56,7 +53,6 @@ namespace Info_Esercizi_08_11_24
                     Task.Delay(1000);                    
                 }
             }
-
         }
     }
 }
