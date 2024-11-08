@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Info_Esercizi_08_11_24
@@ -10,6 +11,13 @@ namespace Info_Esercizi_08_11_24
     {
         static void Main(string[] args)
         {
+            //Es 1 Thread
+            new Es1Thread().Run();
+
+
+
+
+            Console.ReadKey();
         }
     }
 }

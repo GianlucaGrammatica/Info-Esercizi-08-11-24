@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Info_Esercizi_08_11_24.Es1Thread</StartupObject>
+    <StartupObject>Info_Esercizi_08_11_24.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
