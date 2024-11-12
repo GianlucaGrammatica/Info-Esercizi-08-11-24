@@ -18,7 +18,7 @@ namespace Info_Esercizi_08_11_24
             Task t2 = new Task(() => { NumeriDispari(); });
 
             t1.Start();
-            t2.Start();
+            t2.Start();            
         }
 
         private void NumeriPari()
